@@ -1,5 +1,8 @@
 {
 "spider":"https://gh.xxiao.org/https://github.com/LeonoreShaw/tv/raw/main/jar/custom_spider.jar",
+"lives":[
+{"name":"XXiao","type":0,"url":"https://static.xxiao.org/IPTV.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
+],
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 "sites":[
 {
